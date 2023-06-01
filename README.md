@@ -14,7 +14,7 @@ Note: This paper has been submitted to T-ASLP.
 
 # Dataset application
 
-Once the publication is accepted by the journal, we will make the database open source. If you wish to access the database now, you can contect us at [email](xiaoyi.qin@dukekunshan.edu.cn) to apply and temporarily download it.
+Once the publication is accepted by the journal, we will make the database open source. If you wish to access the database now, you can contect us at [xiaoyi.qin@dukekunshan.edu.cn](xiaoyi.qin@dukekunshan.edu.cn) to apply and temporarily download it.
 
 
 # Implementation
