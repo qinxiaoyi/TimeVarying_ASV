@@ -12,7 +12,7 @@ For short-term speaker verification, we collect the SMIIP-TimeVarying (SMIIP-TV)
 
 Note: This paper has been submitted to T-ASLP.
 
-# Dataset application
+# Data application
 
 Once the publication is accepted by the journal, we will make the database open source. If you wish to access the database now, you can contect us at [xiaoyi.qin@dukekunshan.edu.cn](xiaoyi.qin@dukekunshan.edu.cn) to apply and temporarily download it.
 
