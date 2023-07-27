@@ -17,17 +17,12 @@ Note: This paper has been submitted to T-ASLP.
 # Section.1 Dataset 
 
 ## SMIIP-TV dataset introduction
-The SMIIP-TimeVarying Dataset (SMIIP-TV), is a speaker verification dataset designed for research purposes that focuses on short-term time-varying of speaker verification. The recordings language is **Mandarin**. The dataset contains recordings from **373** speakers who provided utterances over **90 consecutive days**, in which each speaker needs to record multiple utterances at varying time slots in each day. To ensure that recording time spans the full day without location limitations, we developed an Android application, which randomly assigns recording tasks in five different time slots:**6:00-8:00, 9:00-11:00, 12:00-14:00, 17:00-19:00, and 20:00-22:00**, as shown in the following figure.
+The SMIIP-TimeVarying Dataset (SMIIP-TV), is a speaker verification dataset designed for research purposes that focuses on short-term time-varying of speaker verification. The recordings language is **Mandarin**, including text-dependent and text-independent contents. The dataset contains recordings from **373** speakers who provided utterances over **90 consecutive days**, in which each speaker needs to record multiple utterances at varying time slots in each day. To ensure that recording time spans the full day without location limitations, we developed an Android application, which randomly assigns recording tasks in five different time slots:**6:00-8:00, 9:00-11:00, 12:00-14:00, 17:00-19:00, and 20:00-22:00**, as shown in the following figure.
 
-<div align="center">
-<img src="https://github.com/qinxiaoyi/TimeVarying_ASV/blob/main/img/smiiptv_recordedtime_dis.png" width=45%/>
-</div>
-    
-In each time slot, speakers provide three utterances, including both text-dependent and text-independent speech samples. Following table shows the recording contents. 
-    
-<div align="center">
-<img src="https://github.com/qinxiaoyi/TimeVarying_ASV/blob/main/img/content.png" width=45%/>
-</div>
+<img src="https://github.com/qinxiaoyi/TimeVarying_ASV/blob/main/img/smiiptv_recordedtime_dis.png"/>|<img src="https://github.com/qinxiaoyi/TimeVarying_ASV/blob/main/img/content.png"/>
+---|---
+Recording time distribution | Content statistics
+
 
 Additional meta information such as **speaker region (total 27 provinces, China)**, **age**, and **cellphone type** was collected.
 
