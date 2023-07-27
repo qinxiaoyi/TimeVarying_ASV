@@ -39,7 +39,7 @@ Additionally, speakers were asked to report details on their **physical state (t
 
 <img src="https://github.com/qinxiaoyi/TimeVarying_ASV/blob/main/img/smiiptv_body_dis.png"/>|<img src="https://github.com/qinxiaoyi/TimeVarying_ASV/blob/main/img/smiiptv_noise_dis_m.png" />|<img src="https://github.com/qinxiaoyi/TimeVarying_ASV/blob/main/img/smiiptv_scene_dis.png"/>
 ---|---|---
- 图1|图1|图1
+Physical state distribution|Noise distribution|Recording environment distribution
 
 Most recordings were made  indoors, with the majority of the noise and physical conditions being normal. Speakers were also encouraged to report various scenes with different physical conditions. Due to the challenge of continuously recording for 90 days, some speakers were unable to provide recordings for the entire duration. Finally, 133 speakers recorded for the entire 90-day period, and we selected 58 of them as the SMIIP-TV test set, and the remaining speaker data (315 speakers) is adopted as the training set.
 
