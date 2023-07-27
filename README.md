@@ -23,7 +23,7 @@ The SMIIP-TimeVarying Dataset (SMIIP-TV), is a speaker verification dataset desi
 <img src="https://github.com/qinxiaoyi/TimeVarying_ASV/blob/main/img/smiiptv_recordedtime_dis.png" width=45%/>
 </div>
     
-In each time slot, speakers provide three utterances, including both text-dependent and text-independent speech samples. Following table shows the contents of the recording. 
+In each time slot, speakers provide three utterances, including both text-dependent and text-independent speech samples. Following table shows the recording contents. 
     
 <div align="center">
 <img src="https://github.com/qinxiaoyi/TimeVarying_ASV/blob/main/img/content.png" width=45%/>
@@ -45,7 +45,7 @@ Most recordings were made  indoors, with the majority of the noise and physical 
 
 ## Data application
 
-Once the publication is accepted by the journal, we will make the database open source. If you wish to access the database now, you can contact us at [ming.li369@duke.edu](ming.li369@duke.edu) or [xiaoyi.qin@dukekunshan.edu.cn](xiaoyi.qin@dukekunshan.edu.cn) to apply and temporarily download it.
+Once the publication is accepted by the journal, we will make the database open source, including audio files and the metadata mentioned above. If you wish to access the database now, you can contact us at [ming.li369@duke.edu](ming.li369@duke.edu) or [xiaoyi.qin@dukekunshan.edu.cn](xiaoyi.qin@dukekunshan.edu.cn) to apply and temporarily download it.
 
 # Section.2 Implementation
 
