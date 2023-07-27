@@ -22,8 +22,6 @@ The SMIIP-TimeVarying Dataset (SMIIP-TV), is a speaker verification dataset desi
 
 ![image](https://github.com/qinxiaoyi/TimeVarying_ASV/blob/main/img/smiiptv_body_dis.png)
 
-![image](https://github.com/qinxiaoyi/TimeVarying_ASV/blob/main/img/smiiptv_gender_dis.png)
-
 ![image](https://github.com/qinxiaoyi/TimeVarying_ASV/blob/main/img/smiiptv_noise_dis_m.png)
 
 ![image](https://github.com/qinxiaoyi/TimeVarying_ASV/blob/main/img/smiiptv_recordedtime_dis.png)
