@@ -46,7 +46,7 @@ Most recordings were made  indoors, with the majority of the noise and physical 
 
 ## Data application
 
-Once the publication is accepted by the journal, we will make the database open source, including audio files and the metadata mentioned above. If you wish to access the database now, you can contact us at [ming.li369@duke.edu](ming.li369@duke.edu) or [xiaoyi.qin@dukekunshan.edu.cn](xiaoyi.qin@dukekunshan.edu.cn) to apply and temporarily download it.
+Once the publication is accepted by the journal, we will make the database open source, including audio files and the metadata mentioned above. If you wish to access the database now, you can contact us at [ming.li369@duke.edu](mailto:ming.li369@duke.edu) or [xiaoyi.qin@dukekunshan.edu.cn](mailto:xiaoyi.qin@dukekunshan.edu.cn) to apply and temporarily download it.
 
 # Section.2 Implementation
 
