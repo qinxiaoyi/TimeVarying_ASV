@@ -37,7 +37,7 @@ Additional meta information such as **speaker region (total 27 provinces, China)
     
 Additionally, speakers were asked to report details on their **physical state (total 7 types, including normal, sleepy, eating, sore throat, exercise, cold/fever, others)**, **recording environment (total 16 scenes)**, and the type of **background noise (totally 4 types, including quiet, normal, noisy, extremely noisy)**, all were manually reviewed. The majority of speakers in the dataset are college students and their families from Shanxi Province, China, and the gender distribution is balanced (**171 males:202 females**).
 
-<img src="https://github.com/qinxiaoyi/TimeVarying_ASV/blob/main/img/smiiptv_body_dis.png" width="250"/>|<img src="https://github.com/qinxiaoyi/TimeVarying_ASV/blob/main/img/smiiptv_noise_dis_m.png" width="250"/>|<img src="https://github.com/qinxiaoyi/TimeVarying_ASV/blob/main/img/smiiptv_scene_dis.png" width="400"/>
+<img src="https://github.com/qinxiaoyi/TimeVarying_ASV/blob/main/img/smiiptv_body_dis.png"/>|<img src="https://github.com/qinxiaoyi/TimeVarying_ASV/blob/main/img/smiiptv_noise_dis_m.png" />|<img src="https://github.com/qinxiaoyi/TimeVarying_ASV/blob/main/img/smiiptv_scene_dis.png"/>
 ---|---|---
  图1|图1|图1
 
