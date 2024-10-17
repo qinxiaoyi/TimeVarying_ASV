@@ -53,6 +53,20 @@ The dataset has been released in openslr:
 [OpenSLR156](https://github.com/qinxiaoyi/Cross-Age_Speaker_Verification](https://openslr.org/156/).
 
 # Section.2 Evaluation
-We have preapare evaluation scipt, you can use './inference.ipynb' for demo.
+We have prepared an evaluation script. You can use ./inference.ipynb to run tests.
+
+# References
+If you use the dataset, please cite it using the following BibTeX entry:
+
+@ARTICLE{10599875,
+  author={Qin, Xiaoyi and Li, Na and Duan, Shufei and Li, Ming},
+  journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing}, 
+  title={Investigating Long-Term and Short-Term Time-Varying Speaker Verification}, 
+  year={2024},
+  volume={32},
+  number={},
+  pages={3408-3423},
+  keywords={Task analysis;Aging;Time-varying systems;Videos;Recording;Face recognition;Databases;Cross-age;reinforcement learning;speaker verification;template updating;time-varying},
+  doi={10.1109/TASLP.2024.3428910}}
 
 
