@@ -12,7 +12,7 @@ For short-term speaker verification, we collect the SMIIP-TimeVarying (SMIIP-TV)
 
 In summary, this paper releases our collected database and  investigates both the long-term and short-term speaker temporal variations and provides insights and solutions into time-varying speaker verification.
 
-Note: This paper has been submitted to T-ASLP.
+Note: This paper has been accepted by T-ASLP.
 
 # Section.1 Dataset 
 
@@ -44,10 +44,11 @@ Physical state distribution|Noise distribution|Recording environment distributio
 Most recordings were made  indoors, with the majority of the noise and physical conditions being normal. Speakers were also encouraged to report various scenes with different physical conditions. Due to the challenge of continuously recording for 90 days, some speakers were unable to provide recordings for the entire duration. Finally, 133 speakers recorded for the entire 90-day period, and we selected 58 of them as the SMIIP-TV test set, and the remaining speaker data (315 speakers) is adopted as the training set.
 
 
-## Data application
+## Data download
+The dataset has been released in openslr:
+[OpenSLR156]([https://github.com/qinxiaoyi/Cross-Age_Speaker_Verification](https://openslr.org/156/).
 
-Once the publication is accepted by the journal, we will make the database open source, including audio files and the metadata mentioned above. If you wish to access the database now, you can contact us at [ming.li369@duke.edu](mailto:ming.li369@duke.edu) or [xiaoyi.qin@dukekunshan.edu.cn](mailto:xiaoyi.qin@dukekunshan.edu.cn) to apply and temporarily download it.
+# Section.2 Evaluation
+We have preapare evaluation scipt, you can use './inference.ipynb' for demo.
 
-# Section.2 Implementation
 
-The training and inference code will be made available after the paper is accepted. The code includes instructions on how to build the reinforcement learning environment, how to conduct training, and how to perform evaluations.
