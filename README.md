@@ -1,7 +1,7 @@
 # TimeVarying_ASV
 
 ## News
-[2024-10-16] SMIIP-TV dataset has been released by [openslr](https://github.com/qinxiaoyi/Cross-Age_Speaker_Verification](https://openslr.org/156/)
+[2024-10-16] SMIIP-TV dataset has been released by [openslr](https://openslr.org/156/)
 
 # Introduction
 ## Xiaoyi Qin, Na Li, Shufei Duan, Ming Li
