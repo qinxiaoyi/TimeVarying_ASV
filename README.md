@@ -53,9 +53,8 @@ The dataset has been released in openslr:
 [OpenSLR156](https://github.com/qinxiaoyi/Cross-Age_Speaker_Verification](https://openslr.org/156/).
 
 # Section.2 Evaluation
-We have prepared an evaluation script. You can use ./inference.ipynb to run tests.
-
-# References
+We have prepared an evaluation script. You can use `./inference.ipynb` to run tests.
+# Citations
 If you use the dataset, please cite it using the following BibTeX entry:
 ```shell
 @ARTICLE{10599875,
