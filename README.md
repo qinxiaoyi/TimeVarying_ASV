@@ -4,7 +4,7 @@
 [2024-10-16] SMIIP-TV dataset has been released by [openslr](https://openslr.org/156/)
 
 # Introduction
-## Xiaoyi Qin, Na Li, Shufei Duan, Ming Li
+## Authors: Xiaoyi Qin, Na Li, Shufei Duan, Ming Li
 
 This repository is our recent work, **Investigating Long-term and Short-term Temporal Variations in Speaker Verification**.
 
