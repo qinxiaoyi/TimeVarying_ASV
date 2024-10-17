@@ -1,5 +1,8 @@
 # TimeVarying_ASV
 
+## New
+[2024-10-16] SMIIP-TV dataset has been released by [openslr](https://github.com/qinxiaoyi/Cross-Age_Speaker_Verification](https://openslr.org/156/)
+
 ## Xiaoyi Qin, Na Li, Shufei Duan, Ming Li
 
 This repository is our recent work, **Investigating Long-term and Short-term Temporal Variations in Speaker Verification**.
@@ -46,7 +49,7 @@ Most recordings were made  indoors, with the majority of the noise and physical 
 
 ## Data download
 The dataset has been released in openslr:
-[OpenSLR156]([https://github.com/qinxiaoyi/Cross-Age_Speaker_Verification](https://openslr.org/156/).
+[OpenSLR156](https://github.com/qinxiaoyi/Cross-Age_Speaker_Verification](https://openslr.org/156/).
 
 # Section.2 Evaluation
 We have preapare evaluation scipt, you can use './inference.ipynb' for demo.
